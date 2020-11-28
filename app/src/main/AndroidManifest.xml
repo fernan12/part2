@@ -11,7 +11,6 @@
         android:theme="@style/Theme.MyApplication">
         <activity android:name=".albumsDetail"></activity>
         <activity android:name=".songs_queue" />
-        <activity android:name=".albums" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".albums" />
     </application>
 
 </manifest>

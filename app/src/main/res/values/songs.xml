@@ -9,6 +9,7 @@
             <item>Unsaid</item>
             <item>Free Time</item>
         </string-array>
+
         <string-array name="Ready">
             <item>Younger</item>
             <item>Dazed and Confused</item>
@@ -22,5 +23,6 @@
             <item>Courage</item>
             <item>Say it over</item>
             <item>Up to Something</item>
+
         </string-array>
 </resources>
